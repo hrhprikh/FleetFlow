@@ -12,21 +12,21 @@ FleetFlow streamlines fleet operations — vehicle tracking, trip lifecycle mana
 
 | Login Page | Manager Dashboard |
 |:---:|:---:|
-| ![Login](screenshots/Screenshot%202026-02-21%20170438.png) | ![Dashboard](screenshots/Screenshot%202026-02-21%20170428.png) |
+| ![Login](web-dashboard/screenshots/Screenshot%202026-02-21%20170438.png) | ![Dashboard](web-dashboard/screenshots/Screenshot%202026-02-21%20170428.png) |
 
 | Trips & Dispatch | Driver Management |
 |:---:|:---:|
-| ![Trips](screenshots/Screenshot%202026-02-21%20171029.png) | ![Drivers](screenshots/Screenshot%202026-02-21%20171044.png) |
+| ![Trips](web-dashboard/screenshots/Screenshot%202026-02-21%20171029.png) | ![Drivers](web-dashboard/screenshots/Screenshot%202026-02-21%20171044.png) |
 
 ### Flutter Mobile App (Driver)
 
 | Login | Register | Driver Dashboard |
 |:---:|:---:|:---:|
-| ![Mobile Login](screenshots/WhatsApp%20Image%202026-02-21%20at%205.09.39%20PM%20(1).jpeg) | ![Mobile Register](screenshots/WhatsApp%20Image%202026-02-21%20at%205.09.39%20PM.jpeg) | ![Driver Dashboard](screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.28%20PM.jpeg) |
+| ![Mobile Login](web-dashboard/screenshots/WhatsApp%20Image%202026-02-21%20at%205.09.39%20PM%20(1).jpeg) | ![Mobile Register](web-dashboard/screenshots/WhatsApp%20Image%202026-02-21%20at%205.09.39%20PM.jpeg) | ![Driver Dashboard](web-dashboard/screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.28%20PM.jpeg) |
 
 | Trip Details | Start Trip |
 |:---:|:---:|
-| ![Trip Details](screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.28%20PM%20(1).jpeg) | ![Start Trip](screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.29%20PM.jpeg) |
+| ![Trip Details](web-dashboard/screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.28%20PM%20(1).jpeg) | ![Start Trip](web-dashboard/screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.29%20PM.jpeg) |
 
 ---
 
@@ -179,15 +179,15 @@ The **FleetFlow Driver App** is a companion Android application built with Flutt
 ### Mobile Screenshots
 
 <p align="center">
-  <img src="screenshots/WhatsApp%20Image%202026-02-21%20at%205.09.39%20PM%20(1).jpeg" width="220" alt="Mobile Login" />
+  <img src="web-dashboard/screenshots/WhatsApp%20Image%202026-02-21%20at%205.09.39%20PM%20(1).jpeg" width="220" alt="Mobile Login" />
   &nbsp;&nbsp;
-  <img src="screenshots/WhatsApp%20Image%202026-02-21%20at%205.09.39%20PM.jpeg" width="220" alt="Mobile Register" />
+  <img src="web-dashboard/screenshots/WhatsApp%20Image%202026-02-21%20at%205.09.39%20PM.jpeg" width="220" alt="Mobile Register" />
   &nbsp;&nbsp;
-  <img src="screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.28%20PM.jpeg" width="220" alt="Driver Dashboard" />
+  <img src="web-dashboard/screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.28%20PM.jpeg" width="220" alt="Driver Dashboard" />
   &nbsp;&nbsp;
-  <img src="screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.28%20PM%20(1).jpeg" width="220" alt="Trip Details" />
+  <img src="web-dashboard/screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.28%20PM%20(1).jpeg" width="220" alt="Trip Details" />
   &nbsp;&nbsp;
-  <img src="screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.29%20PM.jpeg" width="220" alt="Start Trip" />
+  <img src="web-dashboard/screenshots/WhatsApp%20Image%202026-02-21%20at%205.08.29%20PM.jpeg" width="220" alt="Start Trip" />
 </p>
 
 ---

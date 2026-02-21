@@ -1,0 +1,49 @@
+# FleetFlow Implementation Plan
+
+- [x] Create 10-phase implementation plan with Next.js + shadcn/ui + Supabase
+- [x] Get user approval on the plan (auth deferred)
+- [/] Phase 1 — Project Scaffolding
+  - [x] Create Next.js app with TypeScript + Tailwind
+  - [x] Install shadcn/ui (17 components)
+  - [x] Install Supabase client + lucide-react
+  - [/] Create Supabase client helpers
+  - [ ] Create layout shell (sidebar + topbar)
+  - [ ] Create constants + types
+  - [x] Create placeholder pages for all modules
+- [x] Phase 2 — Supabase Database Schema
+- [x] Phase 4 — Vehicle Registry UI Integration
+  - [x] src/app/dashboard/vehicles/page.tsx (fetch API)
+  - [x] Add Vehicle Dialog (POST API)
+- [x] Phase 5 — Driver Management UI Integration
+  - [x] src/app/dashboard/drivers/page.tsx (fetch API)
+  - [x] Add Driver Dialog (POST API)
+- [x] Phase 6 — Trip Dispatcher UI Integration
+  - [x] src/app/dashboard/trips/page.tsx (fetch API)
+  - [x] Add Trip Dialog (POST API)
+  - [x] PATCH /api/trips/[id]/dispatch
+  - [x] PATCH /api/trips/[id]/complete
+  - [x] PATCH /api/trips/[id]/cancel
+- [x] Phase 7 — Maintenance Logs UI Integration
+  - [x] src/app/dashboard/maintenance/page.tsx (fetch API)
+  - [x] Add Maintenance Dialog (POST API)
+  - [x] GET /api/maintenance
+  - [x] POST /api/maintenance
+  - [x] PATCH /api/maintenance/[id]/close
+- [x] Phase 8 — Fuel/Expenses UI Integration
+  - [x] src/app/dashboard/fuel/page.tsx (fetch API)
+  - [x] Add Fuel Dialog (POST API)
+  - [x] GET /api/fuel
+  - [x] POST /api/fuel
+  - [x] GET /api/vehicles/[id]/cost-summary
+- [x] Phase 9 — Dashboard & Analytics UI Integration
+  - [x] src/app/dashboard/dashboard/page.tsx (fetch API)
+  - [x] src/app/dashboard/analytics/page.tsx (fetch API)
+  - [x] GET /api/dashboard/kpis
+  - [x] GET /api/analytics/fuel-efficiency
+  - [x] GET /api/analytics/vehicle-roi
+- [x] Phase 10 — Polish & Seed Data
+  - [x] scripts/seed.ts
+  - [x] Add loading states and error boundaries
+  - [x] Global not-found.tsx and error.tsx
+  - [x] Polish responsive design
+- [ ] Phase 3 — Auth & Login (deferred)
